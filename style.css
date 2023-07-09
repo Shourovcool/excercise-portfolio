@@ -26,3 +26,12 @@ h2 {
 .orangecolor-add {
     color: orange;
 }
+
+.hireme-design {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(202, 126, 39), rgb(248, 100, 32));
+    padding: 10px 40px;
+    color: rgb(255, 255, 255);
+    font-weight: 800;
+    border-radius: 7px;
+}

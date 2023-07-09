@@ -71,3 +71,9 @@ p {
 #baby-web {
     border-left: 12px solid rgb(143, 41, 245);
 }
+
+#myidentity {
+    font-weight: 500;
+    font-size: 16px;
+    text-align: center;
+}

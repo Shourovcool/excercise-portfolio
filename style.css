@@ -1,0 +1,28 @@
+body {
+    font-family: 'Ysabeau SC', sans-serif;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+.display-flex {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half-width img {
+    width: 60%;
+}
+
+.orangecolor-add {
+    color: orange;
+}

@@ -11,10 +11,15 @@ h2 {
     font-size: 25px;
 }
 
-.display-flex {
-    display: flex;
+.top-banner {
     background-image: url(top-banner.png);
     background-repeat: no-repeat;
+}
+
+.display-flex {
+    display: flex;
+    margin-bottom: 140px;
+
 }
 
 .half-width {
@@ -23,7 +28,7 @@ h2 {
 }
 
 .half-width img {
-    width: 60%;
+    width: 70%;
 }
 
 .half-width p {
